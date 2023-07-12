@@ -1,0 +1,5 @@
+src/: A directory containing the source code files for the mobile application.
+components/: A directory containing reusable UI components for building the app's user interface.
+screens/: A directory containing different screens or views of the mobile application.
+services/: A directory containing modules for handling data fetching, storage, or external API integration.
+assets/: A directory for storing static assets like images, icons, and fonts.
